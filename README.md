@@ -4,6 +4,9 @@ Aplikasi sederhana berbasis **HTML, CSS, dan JavaScript** untuk membuat password
 
 ---
 
+Demo    : https://genpassword.rf.gd
+Download: https://bit.ly/4m24kxp
+
 ## 🚀 Tampilan Aplikasi
 ![Preview](index.png)
 
